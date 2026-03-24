@@ -7,7 +7,27 @@
         <title>Collabit</title>
     </head>
     <body>
-        <div id="app">This is the basis for the editor</div>
+        <div id="app">
+            <aside class="sidebar">
+                <div id="workspace">Demo Workspace</div>
+                <ul id="files">
+                    <li data-active>Getting Started</li>
+                    <li>Item 2</li>
+                    <li>Item 3</li>
+                    <li>Item 4</li>
+                    <li>Item 5</li>
+                    <li>Item 6</li>
+                    <li>Item 7</li>
+                </ul>
+            </aside>
+            <div class="main">
+                <div id="page-header">
+                    <div class="title">Getting Started</div>
+                    <div class="muted">Last saved <strong>21:30</strong></div>
+                </div>
+                <div id="page" contenteditable="true"></div>
+            </div>
+        </div>
         <script type="module" src="/src/main.ts"></script>
     </body>
 </html>
