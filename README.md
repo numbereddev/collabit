@@ -1,5 +1,8 @@
 # Collabit
 
+> [!IMPORTANT]
+> Semi abandoned, gonna come back to this eventually
+
 <!--
 For my own memory:
 
