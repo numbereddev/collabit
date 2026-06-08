@@ -1,7 +1,7 @@
 # Collabit
 
 > [!IMPORTANT]
-> Semi abandoned, gonna come back to this eventually
+> Semi abandoned, gonna come back to this eventually, never got too far, was busy 'n stuff
 
 <!--
 For my own memory:
